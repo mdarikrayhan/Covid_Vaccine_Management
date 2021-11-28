@@ -1,0 +1,63 @@
+//slide 1
+Assalamualaikum,
+Today I will prsent our idea Mini project for 
+Data Structures and Algorithms-I from our Group.
+Our mini project is about Covid-19 Vaccine regulation.
+
+//Slide 2
+Here you can see the environment used to create the project. We have 
+used C and visual studio code.
+
+//slide 3
+Now I will discuss about the problem which Inspried to our project:
+During this pandemic, ensuring that every citizen of the country gets 
+the vaccine is a really important job. But maintaining the record of 
+the citizens who got the vaccine and who did not is quite a difficult 
+task. Although online registration is possible for many but not for 
+everyone. By not for everyone, I mean people who don’t have access to 
+Internet (remote area), people who don’t know have access to technology 
+in General. Also, sometimes it can be difficult to complete the 
+registration of mass people as the servers will be busy.
+
+
+//slide 4
+For this reason, we have come up with the idea of offline vaccine 
+regulation system. It works most similarly like the online version 
+but it works offline and faster.
+
+
+//slide 5
+This is the basic flow chart of our program
+
+//slide 6
+Here are some inputs and outputs of how out program will work. 
+Not all features are shown.The ouput are show in like the 
+flowchart order.
+This is the menu
+
+
+//Slide 7
+This is vaccine add and registration windows
+
+//slide 8
+Here we can see all registered user
+
+//slide 9
+These are the test questions for taking vaccine.
+
+//slide 10
+Once they pass all question they will be able to select which vaccine they
+want to take
+
+//slide 11
+The Vaccine name and date will be added to their information
+
+
+//slide 12
+This is an example of indiviual user search using nid. Here you will be able to see
+vaccine name and age also.
+
+//slie 13
+The further plan for this app is to make the app cross platform with graphics ui so 
+that user will have more friendly experience. And also connect govt database api 
+for nid card verification
